@@ -1,0 +1,43 @@
+ body{
+  background: rgb(211, 189, 232);
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+
+ }
+ header{
+  
+  width: 500px;
+  height: 250px;
+  background: rgb(44, 44, 215);
+ }
+
+ input {
+  color: rgb(152, 152, 243);
+ }
+ p{
+  color: black;
+ }
+ p > span{
+  color: brown;
+ }
+ hr{
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-left: 40px;
+  margin-right: 40px;
+  margin: 40px 60px 80px 10px;
+  margin: 120px 200px;
+  margin: 20px 30px 40px;
+ }
+ 
+ .caja{
+  padding: 30px 30px;
+  width:150px;
+  height: 150px;
+  background-color: blue;
+  margin: 80px;
+  border: solid 10px black;
+  color: azure;
+ }
+ 
